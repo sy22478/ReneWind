@@ -172,7 +172,9 @@ Contributions are welcome! Please:
 ## 📬 Contact
 
 **Author:** Sonu Yadav
+
 **GitHub:** [sy22478](https://github.com/sy22478)
+
 **Email:** sonu.yadav19997@gmail.com
 
 ---
