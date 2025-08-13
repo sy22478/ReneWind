@@ -150,15 +150,6 @@ By integrating ReneWind into wind farm operations:
 
 ---
 
-## 🔮 Future Enhancements
-
-* Integration with **real-time turbine monitoring systems**
-* Deployment as a **web dashboard** for live predictions
-* Experimentation with **recurrent neural networks (RNN/LSTM)** for time-series sensor data
-* Incorporation of **weather forecasts** for improved failure prediction
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please:
